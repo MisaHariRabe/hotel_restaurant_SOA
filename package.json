@@ -12,6 +12,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
+    "better-sqlite3": "^12.9.0",
     "body-parser": "^2.2.2",
     "express": "^5.2.1"
   }
